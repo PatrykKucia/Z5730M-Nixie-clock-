@@ -32,6 +32,12 @@
 ### Pinout
 ![alt text](image-7.png)
 ## MCU
+ESP32-S3-WROOM-1-N16R2
+
+ESP Hardware Design Guidelines - https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/index.html
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 
 ## Power supply
 Woking voltage for Z5730M is 140V, power supply will be 170V, cathode current for this type is 2mA.
@@ -48,3 +54,7 @@ Pins for nixie - https://www.digikey.pl/en/products/detail/mill-max-manufacturin
 SparkFun 16347 LED - https://www.digikey.pl/pl/products/detail/sparkfun-electronics/16347/11630204
 
 ESP32-S3-WROOM-1-N16R2 - https://www.digikey.pl/pl/models/16162644
+
+kondensator 0603 C0603C104K5RACTU - https://www.digikey.pl/pl/products/detail/kemet/C0603C104K5RACTU/1465594
+
+przycisk TL6340AF160Q - https://www.digikey.pl/pl/products/detail/e-switch/TL6340AF160Q/11684842
