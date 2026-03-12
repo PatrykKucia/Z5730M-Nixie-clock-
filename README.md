@@ -6,7 +6,8 @@
 3. [Driver](#driver)
 4. [MCU](#mcu)
 5. [Power supply](#power-supply)
-5. [BOM links](#bom-links)
+6. [BOM links](#bom-links)
+7. [Stackup](#stack-up)
 
 ---
 
@@ -72,3 +73,18 @@ USB c GSB1C41110SSHR - https://www.digikey.pl/pl/products/detail/amphenol-cs-com
 DA2032-ALD - https://www.mouser.pl/ProductDetail/Coilcraft/DA2032-ALD?qs=ZYnrCdKdyefv4mcPD%252BT0WQ%3D%3D
 
 BSC059N04LS6ATMA1 - https://www.mouser.pl/ProductDetail/Infineon-Technologies/BSC059N04LS6ATMA1?qs=l7cgNqFNU1gTc6YzL5OQog%3D%3D
+
+dioda VS-3EMH06-M3 - https://www.mouser.pl/ProductDetail/Vishay-Semiconductors/VS-3EMH06-M3-5AT?qs=1FzmF4gO8okKC3sCTg2FQg%3D%3D
+
+dioda 1N4150 - https://www.mouser.pl/ProductDetail/Vishay-Semiconductors/1N4150W-E3-08?qs=vP9d3Jd3b8abHYnKidD6uA%3D%3D
+
+kondensator 250V https://www.mouser.pl/ProductDetail/TDK/CGA4J3X7T2E104K125AA?qs=NRhsANhppD%2FdPRESjzjMmQ%3D%3D
+
+LED APT1608LSECK/J3-PRV - https://www.mouser.pl/ProductDetail/Kingbright/APT1608LSECK-J3-PRV?qs=6oMev5NRZMFBN%252BbFaEKqAQ%3D%3D
+
+bezpiecznik MF-FSML100/8-2 - https://www.mouser.pl/ProductDetail/Bourns/MF-FSML100-8-2?qs=EBDBlbfErPzIwKpEUXHByQ%3D%3D
+
+## Stack up
+
+https://jlcpcb.com/impedance
+![alt text](image-11.png)
