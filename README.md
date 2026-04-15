@@ -8,6 +8,7 @@
 5. [Power supply](#power-supply)
 6. [BOM links](#bom-links)
 7. [Stackup](#stack-up)
+8. [To Fix in V2.1](#To-Fix-in-V2.1)
 
 ---
 
@@ -88,3 +89,11 @@ bezpiecznik MF-FSML100/8-2 - https://www.mouser.pl/ProductDetail/Bourns/MF-FSML1
 
 https://jlcpcb.com/impedance
 ![alt text](image-11.png)
+
+## To Fix in V2.1
+
+- galvanic insulation
+- rotation of Nixie tubes and their orientation
+- no 0-ohm resistors on tube lines
+- 250 V capacitors – wrong footprint
+- wrong connection on LDO enable ❗
