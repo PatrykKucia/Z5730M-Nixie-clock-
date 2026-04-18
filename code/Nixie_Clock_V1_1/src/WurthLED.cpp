@@ -100,3 +100,8 @@ void runEffect(int effectMode) {
             break;
     }
 }
+
+void turnOffWurthLed() {
+    // state = false albo RGB = 0 — zależy jak masz zaimplementowane sterowanie
+    setWurthLed(false, 0, 0, 0);
+}
